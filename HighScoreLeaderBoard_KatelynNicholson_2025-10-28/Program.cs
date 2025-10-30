@@ -65,6 +65,7 @@ namespace HighScoreLeaderBoard_KatelynNicholson_2025_10_28
                 Console.WriteLine($"{entry.Score} {entry.Initials}");
             }
 
+            Console.WriteLine("\nI don't see where the text is being saved."); //a bit confused on that
             Console.WriteLine("\nPress any key to exit the game.");
             Console.ReadKey();
         }

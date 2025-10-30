@@ -1,0 +1,7 @@
+C:\Katelyn's UnityProjects\Programming\HighScoreLeaderBoard_KatelynNicholson_2025-10-28\HighScoreLeaderBoard_KatelynNicholson_2025-10-28\bin\Release\HighScoreLeaderBoard_KatelynNicholson_2025-10-28.exe.config
+C:\Katelyn's UnityProjects\Programming\HighScoreLeaderBoard_KatelynNicholson_2025-10-28\HighScoreLeaderBoard_KatelynNicholson_2025-10-28\bin\Release\HighScoreLeaderBoard_KatelynNicholson_2025-10-28.exe
+C:\Katelyn's UnityProjects\Programming\HighScoreLeaderBoard_KatelynNicholson_2025-10-28\HighScoreLeaderBoard_KatelynNicholson_2025-10-28\bin\Release\HighScoreLeaderBoard_KatelynNicholson_2025-10-28.pdb
+C:\Katelyn's UnityProjects\Programming\HighScoreLeaderBoard_KatelynNicholson_2025-10-28\HighScoreLeaderBoard_KatelynNicholson_2025-10-28\obj\Release\HighScoreLeaderBoard_KatelynNicholson_2025-10-28.csproj.AssemblyReference.cache
+C:\Katelyn's UnityProjects\Programming\HighScoreLeaderBoard_KatelynNicholson_2025-10-28\HighScoreLeaderBoard_KatelynNicholson_2025-10-28\obj\Release\HighScoreLeaderBoard_KatelynNicholson_2025-10-28.csproj.CoreCompileInputs.cache
+C:\Katelyn's UnityProjects\Programming\HighScoreLeaderBoard_KatelynNicholson_2025-10-28\HighScoreLeaderBoard_KatelynNicholson_2025-10-28\obj\Release\HighScoreLeaderBoard_KatelynNicholson_2025-10-28.exe
+C:\Katelyn's UnityProjects\Programming\HighScoreLeaderBoard_KatelynNicholson_2025-10-28\HighScoreLeaderBoard_KatelynNicholson_2025-10-28\obj\Release\HighScoreLeaderBoard_KatelynNicholson_2025-10-28.pdb
